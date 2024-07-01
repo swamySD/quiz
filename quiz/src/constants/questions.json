@@ -1,0 +1,93 @@
+[
+    {
+      "question": "What is the largest planet in our solar system?",
+      "answeroptions": [
+        { "text": "Saturn", "isCorrect": false },
+        { "text": "Mars", "isCorrect": false },
+        { "text": "Earth", "isCorrect": false },
+        { "text": "Jupiter", "isCorrect": true }
+      ]
+    },
+    {
+      "question": "What is the capital of France?",
+      "answeroptions": [
+        { "text": "Berlin", "isCorrect": false },
+        { "text": "Rome", "isCorrect": false },
+        { "text": "Paris", "isCorrect": true },
+        { "text": "Madrid", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which of the following is a programming language?",
+      "answeroptions": [
+        { "text": "Apple", "isCorrect": false },
+        { "text": "Python", "isCorrect": true },
+        { "text": "Banana", "isCorrect": false },
+        { "text": "Grapes", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the chemical symbol for water?",
+      "answeroptions": [
+        { "text": "W", "isCorrect": false },
+        { "text": "O2", "isCorrect": false },
+        { "text": "H2O", "isCorrect": true },
+        { "text": "CO2", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "answeroptions": [
+        { "text": "Mars", "isCorrect": true },
+        { "text": "Jupiter", "isCorrect": false },
+        { "text": "Venus", "isCorrect": false },
+        { "text": "Saturn", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "answeroptions": [
+        { "text": "Leonardo da Vinci", "isCorrect": true },
+        { "text": "Pablo Picasso", "isCorrect": false },
+        { "text": "Vincent van Gogh", "isCorrect": false },
+        { "text": "Michelangelo", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which country is famous for its pyramids?",
+      "answeroptions": [
+        { "text": "Italy", "isCorrect": false },
+        { "text": "China", "isCorrect": false },
+        { "text": "Egypt", "isCorrect": true },
+        { "text": "India", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the currency of Japan?",
+      "answeroptions": [
+        { "text": "Euro", "isCorrect": false },
+        { "text": "Dollar", "isCorrect": false },
+        { "text": "Yen", "isCorrect": true },
+        { "text": "Pound", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which animal is known as the 'king of the jungle'?",
+      "answeroptions": [
+        { "text": "Elephant", "isCorrect": false },
+        { "text": "Lion", "isCorrect": true },
+        { "text": "Tiger", "isCorrect": false },
+        { "text": "Leopard", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "answeroptions": [
+        { "text": "Charles Dickens", "isCorrect": false },
+        { "text": "William Shakespeare", "isCorrect": true },
+        { "text": "Jane Austen", "isCorrect": false },
+        { "text": "Leo Tolstoy", "isCorrect": false }
+      ]
+    }
+  ]
+  

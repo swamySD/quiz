@@ -1,0 +1,11 @@
+.question{
+margin: 20px auto;
+width:60%;
+border: 1px solid #ddd;
+padding: 2px;
+}
+.options{
+    list-style-type: none;
+    display: flex;
+
+}
